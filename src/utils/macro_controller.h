@@ -1,0 +1,23 @@
+#ifndef H_MACROS_CONTROLLER
+#define H_MACROS_CONTROLLER
+
+//Logging
+#define LOG_TODO_ENABLED 1
+#define LOG_DEBUG_ENABLED 1
+#define LOG_INFO_ENABLED 1
+#define LOG_WARNING_ENABLED 1
+#define LOG_ERROR_ENABLED 1
+
+//Input
+#define LOG_DEBUG_INPUT_ENABLED 0
+
+//Timer
+#define TIMER_ENABLED 1
+
+//Rendered api
+#define DEBUG_VALIDATION_ENABLED 1
+#define DEBUG_LAYERS_LIST 1
+#define DEBUG_EXTENSIONS_LIST 1
+#define DEBUG_DEVICES_LIST 1
+
+#endif
